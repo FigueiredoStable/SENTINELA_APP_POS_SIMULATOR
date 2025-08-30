@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

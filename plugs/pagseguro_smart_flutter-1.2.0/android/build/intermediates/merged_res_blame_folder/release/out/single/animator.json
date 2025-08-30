@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/fragment_close_enter.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-fragment-1.7.1-4:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/fragment_open_exit.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-fragment-1.7.1-4:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_chip_state_list_anim.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/design_fab_show_motion_spec.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/fragment_fade_enter.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-fragment-1.7.1-4:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/fragment_close_exit.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-fragment-1.7.1-4:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/design_fab_hide_motion_spec.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_btn_state_list_anim.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/fragment_fade_exit.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-fragment-1.7.1-4:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/fragment_open_enter.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-fragment-1.7.1-4:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/animator/mtrl_fab_hide_motion_spec.xml"
+    }
+]

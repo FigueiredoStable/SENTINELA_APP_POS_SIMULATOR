@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "dev.gabul.pagseguro_smart_flutter-mergeReleaseResources-29:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/fredfort/.gradle/caches/transforms-3/85ceb0f66b4c19495a4d2f62d4c6a1a1/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/fredfort/.gradle/caches/transforms-3/85ceb0f66b4c19495a4d2f62d4c6a1a1/transformed/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

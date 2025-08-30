@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

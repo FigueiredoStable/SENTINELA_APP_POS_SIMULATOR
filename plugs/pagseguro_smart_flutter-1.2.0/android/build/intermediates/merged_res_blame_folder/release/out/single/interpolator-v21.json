@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    }
+]

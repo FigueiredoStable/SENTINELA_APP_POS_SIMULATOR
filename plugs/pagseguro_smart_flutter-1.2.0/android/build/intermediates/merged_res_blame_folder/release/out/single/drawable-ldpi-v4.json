@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "dev.gabul.pagseguro_smart_flutter-core-1.13.1-7:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "dev.gabul.pagseguro_smart_flutter-core-1.13.1-7:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "dev.gabul.pagseguro_smart_flutter-core-1.13.1-7:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "dev.gabul.pagseguro_smart_flutter-core-1.13.1-7:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "dev.gabul.pagseguro_smart_flutter-core-1.13.1-7:/drawable-ldpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "dev.gabul.pagseguro_smart_flutter-core-1.13.1-7:/drawable-ldpi-v4/ic_call_decline_low.png"
+    }
+]

@@ -1,0 +1,1 @@
+enum PaymentViewStage { options, actions }

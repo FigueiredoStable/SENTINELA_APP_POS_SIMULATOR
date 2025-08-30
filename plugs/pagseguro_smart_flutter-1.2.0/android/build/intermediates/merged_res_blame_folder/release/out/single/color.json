@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_primary_text_material_dark.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_fab_ripple_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_fab_ripple_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_tabs_icon_color_selector_colored.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/design_error.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/design_error.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_search_url_text.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/switch_thumb_material_light.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_chip_text_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_chip_text_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_secondary_text_material_dark.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_chip_ripple_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_chip_ripple_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_btn_bg_color_selector.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_btn_text_color_selector.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_bottom_nav_item_tint.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_bottom_nav_item_tint.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_btn_ripple_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_tabs_ripple_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_tabs_ripple_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_secondary_text_material_light.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_hint_foreground_material_dark.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_tabs_colored_ripple_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_tabs_colored_ripple_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_tabs_icon_color_selector.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_tabs_icon_color_selector.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_primary_text_material_light.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_text_btn_text_color_selector.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_text_btn_text_color_selector.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_bottom_nav_colored_item_tint.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_chip_close_icon_tint.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_chip_background_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_chip_background_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_btn_stroke_color_selector.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/switch_thumb_material_dark.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/mtrl_btn_text_btn_ripple_color.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-material-1.0.0-13:/color/mtrl_btn_text_btn_ripple_color.xml"
+    },
+    {
+        "merged": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/color/abc_hint_foreground_material_light.xml",
+        "source": "dev.gabul.pagseguro_smart_flutter-appcompat-1.0.0-15:/color/abc_hint_foreground_material_light.xml"
+    }
+]

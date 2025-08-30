@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/fredfort/.pub-cache/hosted/pub.dev/pagseguro_smart_flutter-1.2.0/android"
+    name=":pagseguro_smart_flutter"
+    type="LIBRARY"
+    maven="dev.gabul.pagseguro_smart_flutter:pagseguro_smart_flutter:"
+    agpVersion="8.2.1"
+    buildFolder="build"
+    bootClassPath="/Users/fredfort/Library/Android/sdk/platforms/android-31/android.jar:/Users/fredfort/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

@@ -1,6 +1,3 @@
-# sentinela_app_pos_simulator
-
-A new Flutter project.
-
-# SENTINELA POS SIMULATOR
 # SENTINELA_APP_POS_SIMULATOR
+
+Aplicativo para simular o fluxo da aplicação SENTINELA SPOLUS com um fluxo de pagamento fake.

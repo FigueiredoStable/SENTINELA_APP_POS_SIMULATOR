@@ -1,0 +1,1 @@
+dev.gabul.pagseguro_smart_flutter

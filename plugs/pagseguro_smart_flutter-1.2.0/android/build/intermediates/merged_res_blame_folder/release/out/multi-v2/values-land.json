@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "dev.gabul.pagseguro_smart_flutter-mergeReleaseResources-29:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/fredfort/.gradle/caches/transforms-3/7e01b1ca689e8bd6bb30c749b636b0fb/transformed/material-1.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/Users/fredfort/.gradle/caches/transforms-3/85ceb0f66b4c19495a4d2f62d4c6a1a1/transformed/appcompat-1.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "dev.gabul.pagseguro_smart_flutter-merged_res-31:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/fredfort/.gradle/caches/transforms-3/7e01b1ca689e8bd6bb30c749b636b0fb/transformed/material-1.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/Users/fredfort/.gradle/caches/transforms-3/85ceb0f66b4c19495a4d2f62d4c6a1a1/transformed/appcompat-1.0.0/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
