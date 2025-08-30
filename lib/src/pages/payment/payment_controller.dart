@@ -351,21 +351,6 @@ class PaymentViewController {
     try {
       startSendTEFInterface.value = true;
 
-      // Verifica se precisa checar a interface antes de enviar o TEF
-      if (GetIt.I<HomeController>().defaultInicializationSettings.disableTefPaymentIfInterfaceIsOffline == true) {
-        final pongReceived = await sendPingInterface();
-        if (!pongReceived) {
-          GetIt.I<LoggerService>().e("Ping failed, cannot proceed with TEF payment.");
-          animationAssetPayment.value = 'assets/lottie/anim-fail.json';
-          countSeconds = countError;
-          viewStateError.value = true;
-          paymentViewState.value = PaymentViewState.error;
-          messageInsertCredit.value = InsertCreditStatusEnum.ERROR;
-          startSendTEFInterface.value = false;
-          return;
-        }
-      }
-
       final String tefCommandInterface = Utils.formatTefCommandWithEpoch(double.parse(GetIt.I<HomeController>().buyData.value.price));
 
       _expectedTefCommand = tefCommandInterface;
