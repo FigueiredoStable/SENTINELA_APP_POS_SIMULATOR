@@ -122,6 +122,8 @@ class BluetoothService {
       if (_isTryingToReconnect) return;
 
       GetIt.I<LoggerService>().w("Desconectado. Disparando reconexão...");
+      final fsmZero = "I0C0B0E0M0J0W2";
+      _updateState(fsmData: fsmZero, statusMessage: "Desconectado!", deviceStatus: Device.disconnected);
       await reconnect();
     });
 
@@ -148,6 +150,8 @@ class BluetoothService {
         } else if (event == Device.disconnected) {
           _isConnected = false;
           _updateState(statusMessage: "Dispositivo desconectado.", deviceStatus: Device.disconnected);
+          final fsmZero = "I0C0B0E0M0J0W2";
+          _updateState(fsmData: fsmZero, statusMessage: "Desconectado!", deviceStatus: Device.disconnected);
 
           await Future.delayed(Duration(milliseconds: 500)); // Pequeno delay para garantir que o stack limpou
           if (!_isReconnecting) {
@@ -182,6 +186,8 @@ class BluetoothService {
 
     _isTryingToReconnect = true;
     GetIt.I<LoggerService>().w("🔄 Tentando reconectar...");
+    final fsmZero = "I0C0B0E0M0J0W0";
+    _updateState(fsmData: fsmZero, statusMessage: "Desconectado!", deviceStatus: Device.connecting);
 
     int attempts = 0;
 
@@ -285,7 +291,7 @@ class BluetoothService {
 
         _isConnected = false;
         // Atualiza FSM para zerado ao desconectar
-        final fsmZero = "FSM-I0C0B0E0M0J0W2";
+        final fsmZero = "I0C0B0E0M0J0W2";
         _updateState(fsmData: fsmZero, statusMessage: "Desconectado!", deviceStatus: Device.disconnected);
         GetIt.I<LoggerService>().i("Dispositivo desconectado com sucesso.");
       } catch (e) {
@@ -293,7 +299,7 @@ class BluetoothService {
       }
     } else {
       // Mesmo já estando desconectado, garante que o FSM está zerado
-      final fsmZero = "FSM-I0C0B0E0M0J0W2";
+      final fsmZero = "I0C0B0E0M0J0W2";
       _updateState(fsmData: fsmZero, statusMessage: "Desconectado!", deviceStatus: Device.disconnected);
       GetIt.I<LoggerService>().i("Bluetooth já estava desconectado.");
     }
@@ -444,18 +450,17 @@ class BluetoothService {
       case "FSM":
         // Se o status do device não for conectado, envia FSM zerado
         if (bluetoothState.deviceStatus == Device.connected) {
-          result = Utils.updateWStatus(fsm: result, newStatus: "1");
+          result = Utils.updateWStatus(fsm: result.split("-").last, newStatus: "1");
           _updateState(fsmData: result, statusMessage: "Dados FSM recebidos.", deviceStatus: bluetoothState.deviceStatus);
         } else if (bluetoothState.deviceStatus == Device.connecting) {
-          result = Utils.updateWStatus(fsm: result, newStatus: "0");
+          result = Utils.updateWStatus(fsm: result.split("-").last, newStatus: "0");
           _updateState(fsmData: result, statusMessage: "Dados FSM recebidos.", deviceStatus: bluetoothState.deviceStatus);
         } else if (bluetoothState.deviceStatus == Device.disconnected) {
-          result = Utils.updateWStatus(fsm: result, newStatus: "2");
+          result = Utils.updateWStatus(fsm: result.split("-").last, newStatus: "2");
           _updateState(fsmData: result, statusMessage: "Dados FSM recebidos.", deviceStatus: bluetoothState.deviceStatus);
+        } else {
+          _updateState(fsmData: result.split("-").last, statusMessage: "Dados FSM recebidos.", deviceStatus: bluetoothState.deviceStatus);
         }
-        //  else {
-        //   _updateState(fsmData: result, statusMessage: "Dados FSM recebidos.", deviceStatus: bluetoothState.deviceStatus);
-        // }
         break;
       case "TEF":
         _proccessResponse(data['type'], result, "Transação TEF recebida.");
@@ -473,7 +478,7 @@ class BluetoothService {
         _proccessResponse(data['type'], result, "Dados de comando recebido.");
         break;
       default:
-        GetIt.I<LoggerService>().d("Dados recebidos: \\${result}");
+        GetIt.I<LoggerService>().d("Dados recebidos: $result");
     }
   }
 
